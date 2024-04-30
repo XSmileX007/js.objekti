@@ -1,0 +1,8 @@
+{
+  "boja": "crna",
+  "marka": { "tip": "BMW", "model": "ff30" },
+  "cijena": 22000,
+  "brzina": 10,
+  "maxBrzina": 220,
+  "registriran": true
+}
